@@ -1,5 +1,3 @@
-
-
 def welcome
   p "Welcome!"
 end
